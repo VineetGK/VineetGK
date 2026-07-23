@@ -1,6 +1,6 @@
 # Hi, I'm Vineet Kowti 👋
 <p align = "center">
-<img src="./Vini.svg" width="400" alt="ASCII art terminal animation">
+<img src="./Vini.svg" width="500" alt="ASCII art terminal animation">
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI/ML+Engineer+%7C+Data+Scientist;Clinical+AI+%2B+RAG+Systems;LLMs+%7C+Computer+Vision+%7C+MLOps)](https://git.io/typing-svg)
