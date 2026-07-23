@@ -8,7 +8,6 @@
 </p>
 **AI/ML Engineer / Data Scientist @ QRFup** · **Boston, MA** · **CS/Engineering Background**
 
-
 I build clinical AI systems, RAG pipelines, and production ML workflows—validated against real baselines, not vibes.
 
 [![Email](https://img.shields.io/badge/Email-vineetgkowti%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vineetgkowti@gmail.com)
