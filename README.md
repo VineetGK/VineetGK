@@ -1,8 +1,8 @@
-# Hi, I'm Vineet G Kowti 👋
+# Hi, I'm Vineet Kowti 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=ML+Engineer+%7C+Data+Scientist;Clinical+AI+%2B+RAG+Systems;LLMs+%7C+Computer+Vision+%7C+MLOps)](https://git.io/typing-svg)
 
-**ML Engineer / Data Scientist @ QRFup** · **Boston, MA** · **CS/Engineering Background**
+**AI/ML Engineer / Data Scientist @ QRFup** · **Boston, MA** · **CS/Engineering Background**
 
 I build clinical AI systems, RAG pipelines, and production ML workflows—validated against real baselines, not vibes.
 
