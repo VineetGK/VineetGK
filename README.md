@@ -1,12 +1,13 @@
 # Hi, I'm Vineet Kowti 👋
 <p align = "center">
 <img src="./Vini.svg" width="500" alt="ASCII art terminal animation">
-</p>
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI/ML+Engineer+%7C+Data+Scientist;Clinical+AI+%2B+RAG+Systems;LLMs+%7C+Computer+Vision+%7C+MLOps)](https://git.io/typing-svg)
 
 **AI/ML Engineer / Data Scientist @ QRFup** · **Boston, MA** · **CS/Engineering Background**
 
+</p>
 I build clinical AI systems, RAG pipelines, and production ML workflows—validated against real baselines, not vibes.
 
 [![Email](https://img.shields.io/badge/Email-vineetgkowti%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vineetgkowti@gmail.com)
